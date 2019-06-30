@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\S.R Laptop\\Desktop\\Project-Learning-Tasks\\Company\\Company\\Company.csproj": {}
+    "C:\\Users\\S.R Laptop\\source\\repos\\Company\\Company\\Company.csproj": {}
   },
   "projects": {
-    "C:\\Users\\S.R Laptop\\Desktop\\Project-Learning-Tasks\\Company\\Company\\Company.csproj": {
+    "C:\\Users\\S.R Laptop\\source\\repos\\Company\\Company\\Company.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\S.R Laptop\\Desktop\\Project-Learning-Tasks\\Company\\Company\\Company.csproj",
+        "projectUniqueName": "C:\\Users\\S.R Laptop\\source\\repos\\Company\\Company\\Company.csproj",
         "projectName": "Company",
-        "projectPath": "C:\\Users\\S.R Laptop\\Desktop\\Project-Learning-Tasks\\Company\\Company\\Company.csproj",
+        "projectPath": "C:\\Users\\S.R Laptop\\source\\repos\\Company\\Company\\Company.csproj",
         "packagesPath": "C:\\Users\\S.R Laptop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\S.R Laptop\\Desktop\\Project-Learning-Tasks\\Company\\Company\\obj\\",
+        "outputPath": "C:\\Users\\S.R Laptop\\source\\repos\\Company\\Company\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
